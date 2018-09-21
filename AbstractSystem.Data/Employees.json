@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Thomas Galliker",
+    "Birthdate": "1986-07-11T00:00:00Z",
+    "IsRetired": false,
+    "MonthlySalary": 5000.0
+  },
+  {
+    "Name": "Maria Lustig",
+    "Birthdate": "1990-11-02T00:00:00Z",
+    "IsRetired": false,
+    "MonthlySalary": 6500.0
+  },
+  {
+    "Name": "Peter Mustermann",
+    "Birthdate": "1995-01-02T00:00:00Z",
+    "IsRetired": false,
+    "MonthlySalary": 3500.0
+  },
+  {
+    "Name": "Alex Müller",
+    "Birthdate": "1981-01-02T00:00:00Z",
+    "IsRetired": false,
+    "MonthlySalary": 4500.0
+  },
+  {
+    "Name": "Elvira Suppiger",
+    "Birthdate": "1988-02-23T00:00:00Z",
+    "IsRetired": false,
+    "MonthlySalary": 4500.0
+  },
+  {
+    "Name": "Peter Lustig",
+    "Birthdate": "1950-01-01T00:00:00Z",
+    "IsRetired": true,
+    "MonthlySalary": 7000.0
+  },
+  {
+    "Name": "Joseph Albahari",
+    "Birthdate": "1955-01-01T00:00:00Z",
+    "IsRetired": true,
+    "MonthlySalary": 12000.0
+  }
+]
